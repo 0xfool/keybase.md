@@ -2,9 +2,18 @@
 
 I hereby claim:
 
-  * I am kryzsiel on github.
-  * I am kowalskiego (https://keybase.io/kowalskiego) on keybase.
-  * I have a public key ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo
+  * I am 0xfool on github.
+  * I am eth15 (https://keybase.io/kowalskiego) on keybase.
+  * I have a public key
+
+To claim this, I am signing this object:
+### Keybase proof
+
+I hereby claim:
+
+  * I am 0xfool on github.
+  * I am eth15 (https://keybase.io/eth15) on keybase.
+  * I have a public key ASBmyWklYFkAb0zYROhyp8XgNQEurj_zkLPsZNXm4iy9mAo
 
 To claim this, I am signing this object:
 
@@ -12,35 +21,59 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e8606f0f9c7841bce080019040c7eb054f126b1e8ffaa37ad338ef969a2fe32a0a",
+      "eldest_kid": "012066c969256059006f4cd844e872a7c5e035012eae3ff390b3ec64d5e6e22cbd980a",
       "host": "keybase.io",
-      "kid": "0120f8624be69d75c3d9a7aad8ce06d68638c3c8518b54e181aca715b9b7ee9a9ad10a",
-      "uid": "104d2559ba716007be6d05891486f619",
-      "username": "kowalskiego"
+      "kid": "012066c969256059006f4cd844e872a7c5e035012eae3ff390b3ec64d5e6e22cbd980a",
+      "uid": "8c097ac772a2b8abffcce1317635bd19",
+      "username": "eth15"
     },
     "merkle_root": {
-      "ctime": 1568100769,
-      "hash": "b3491f362446375c69a94e4c72260363e6578b271bc9d7a3e2007cee5fe1fc6a1cbcfc3f22635c98117489a55e3b6783c93105a5ca2e00cf5cb79d10ac56207e",
-      "hash_meta": "b236e947a1963ffca3454325c676ba7ded79c28872ec162be0b630e1307b2e4c",
-      "seqno": 6341022
+      "ctime": 1580667903,
+      "hash": "611e31cfd3dccb95767d97b5818b7af6a8e83c6fa12bf7f0369edd47c0f2ae2985600228f231dda1da0725026e82a415d41a18ed90038fa0c2c819ec776e6359",
+      "hash_meta": "83eab9514af649432b468f6bc1216e2a0f2643a035c9d87eb9724c76613f9fc8",
+      "seqno": 14461078
     },
     "service": {
-      "entropy": "rsBEY0ufhu+xhjOcrKy2+PV9",
+      "entropy": "MRNGHauX7SxGEmuIB3+1XqZ6",
       "name": "github",
-      "username": "kryzsiel"
+      "username": "0xfool"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.1"
+    "version": "5.1.0"
   },
-  "ctime": 1568100773,
+  "ctime": 1580667955,
   "expire_in": 504576000,
-  "prev": "920c66549536c8f1776a0b31a4287ddb2432bed5f5b8922221494e8cf5fe0028",
-  "seqno": 23,
+  "prev": "688d44b2cfb33f9a3afddb06d61de62a8f7499689539d7c828590b4bfdc06511",
+  "seqno": 8,
   "tag": "signature"
+}
+```
+
+with the key [ASBmyWklYFkAb0zYROhyp8XgNQEurj_zkLPsZNXm4iy9mAo](https://keybase.io/eth15), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZslpJWBZAG9M2ETocqfF4DUBLq4/85Cz7GTV5uIsvZgKp3BheWxvYWTESpcCCMQgaI1Ess+zP5o6/dsG1h3mKo90mWiVOdfIKFkLS/3AZRHEICdqNMtI679Ye0xXp+N147Ev0WSPzlKMgU+YjX/xVKMjAgHCo3NpZ8RAgyd0wXhQjsL4O8GLz2hrUvQNgB1owXmpBsIyH5EOXc1ePsybfXRc8qwnSi4wid76MZMZqZyfUcjNULttyEZECahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKchq2djyw57AC4O5Gd5ncMn+2i8GmaPNkuG+vk5hNB8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/eth15
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id eth15
+```
 }
 ```
 
